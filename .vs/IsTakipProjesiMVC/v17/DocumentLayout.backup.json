@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EDANUR \u015EAH\u0130NER\\Source\\Repos\\IsTakipProjesiMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9336F923-18B3-46BE-8241-18A56020E881}|IsTakipProjesiMVC\\IsTakipProjesiMVC.csproj|c:\\users\\edanur \u015Fah\u0130ner\\source\\repos\\istakipprojesimvc\\istakipprojesimvc\\controllers\\y\u00F6neticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9336F923-18B3-46BE-8241-18A56020E881}|IsTakipProjesiMVC\\IsTakipProjesiMVC.csproj|solutionrelative:istakipprojesimvc\\controllers\\y\u00F6neticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9336F923-18B3-46BE-8241-18A56020E881}|IsTakipProjesiMVC\\IsTakipProjesiMVC.csproj|C:\\Users\\EDANUR \u015EAH\u0130NER\\Source\\Repos\\IsTakipProjesiMVC\\istakipprojesimvc\\views\\calisan\\takip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9336F923-18B3-46BE-8241-18A56020E881}|IsTakipProjesiMVC\\IsTakipProjesiMVC.csproj|solutionrelative:istakipprojesimvc\\views\\calisan\\takip.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Takip.cshtml",
+              "DocumentMoniker": "C:\\Users\\EDANUR \u015EAH\u0130NER\\Source\\Repos\\IsTakipProjesiMVC\\IsTakipProjesiMVC\\Views\\Calisan\\Takip.cshtml",
+              "RelativeDocumentMoniker": "IsTakipProjesiMVC\\Views\\Calisan\\Takip.cshtml",
+              "ToolTip": "C:\\Users\\EDANUR \u015EAH\u0130NER\\Source\\Repos\\IsTakipProjesiMVC\\IsTakipProjesiMVC\\Views\\Calisan\\Takip.cshtml",
+              "RelativeToolTip": "IsTakipProjesiMVC\\Views\\Calisan\\Takip.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T12:46:13.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Y\u00F6neticiController.cs",
+              "DocumentMoniker": "C:\\Users\\EDANUR \u015EAH\u0130NER\\Source\\Repos\\IsTakipProjesiMVC\\IsTakipProjesiMVC\\Controllers\\Y\u00F6neticiController.cs",
+              "RelativeDocumentMoniker": "IsTakipProjesiMVC\\Controllers\\Y\u00F6neticiController.cs",
+              "ToolTip": "C:\\Users\\EDANUR \u015EAH\u0130NER\\Source\\Repos\\IsTakipProjesiMVC\\IsTakipProjesiMVC\\Controllers\\Y\u00F6neticiController.cs",
+              "RelativeToolTip": "IsTakipProjesiMVC\\Controllers\\Y\u00F6neticiController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:42:11.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
